@@ -27,7 +27,7 @@ SECRET_KEY = '0c)f!k0df&e8oua4ie)b)@y3pw3rxau0m&x^gx4al93cy@=hg+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['blogglass.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
