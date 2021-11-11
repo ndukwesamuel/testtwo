@@ -1,0 +1,12 @@
+for this project to push to heroku
+
+
+heroku login
+
+heroku git:remote -a name_of_heroku_app
+
+git remote
+
+git remote -v
+
+
